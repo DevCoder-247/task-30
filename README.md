@@ -1,8 +1,10 @@
-## Github Backend Repo  
+## Github Backend Repo  this one ia backend repo
 https://github.com/aakashk1905/quizback
 
-## Deployed Frontend Url  
-https://task-28-2nl1bhqwg-abhays-projects-596787af.vercel.app/
+## Deployed Frontend Url  front end is made with HTML (as react was option to do so )
+https://deft-crostata-02e942.netlify.app/
 
 ## Deployed Backend Url  
-https://task-28-a.onrender.com/api/todos
+https://task-30.onrender.com/
+
+
